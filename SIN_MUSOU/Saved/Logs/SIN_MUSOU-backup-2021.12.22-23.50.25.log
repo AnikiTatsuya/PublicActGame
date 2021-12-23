@@ -1,0 +1,1330 @@
+﻿Log file open, 12/23/21 08:46:58
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SIN_MUSOU
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.842099
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=黄砂風呂 -epicuserid=b12fbdf92b054c2885ab4d487ef27dfb -epiclocale=zh-CN -epicsandboxid=ue
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Engine.ini]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Engine.ini]
+[2021.12.22-23.46.59:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Engine.ini]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Engine.ini]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.22-23.46.59:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Engine.ini]
+[2021.12.22-23.46.59:613][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Engine.ini]
+[2021.12.22-23.46.59:629][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.22-23.46.59:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.22-23.46.59:630][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.22-23.46.59:631][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.22-23.46.59:631][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.22-23.46.59:631][  0]LogHAL: Display: Platform has ~ 16 GB [16985645056 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.22-23.46.59:631][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.22-23.46.59:631][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.22-23.46.59:631][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.22-23.46.59:632][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Scalability.ini]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.22-23.46.59:633][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Config/Windows/Engine.ini]
+[2021.12.22-23.46.59:633][  0]LogInit: Computer: DADA-PC
+[2021.12.22-23.46.59:633][  0]LogInit: User: DadA
+[2021.12.22-23.46.59:633][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.12.22-23.46.59:633][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.22-23.46.59:633][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.12.22-23.46.59:633][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.22-23.46.59:633][  0]LogMemory: Process Physical Memory: 136.14 MB used, 136.15 MB peak
+[2021.12.22-23.46.59:633][  0]LogMemory: Process Virtual Memory: 118.57 MB used, 118.57 MB peak
+[2021.12.22-23.46.59:633][  0]LogMemory: Physical Memory: 6954.30 MB used,  9244.47 MB free, 16198.77 MB total
+[2021.12.22-23.46.59:633][  0]LogMemory: Virtual Memory: 134186688.00 MB used,  31036.09 MB free, 134217728.00 MB total
+[2021.12.22-23.46.59:643][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.22-23.46.59:696][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.22-23.46.59:697][  0]LogInit: Using OS detected language (ja-JP).
+[2021.12.22-23.46.59:697][  0]LogInit: Using OS detected locale (ja-JP).
+[2021.12.22-23.46.59:700][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2021.12.22-23.46.59:853][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.22-23.46.59:946][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.22-23.47.00:024][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.22-23.47.00:024][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.22-23.47.00:490][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.22-23.47.00:490][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.22-23.47.00:490][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.22-23.47.00:490][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.22-23.47.00:599][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2021.12.22-23.47.00:599][  0]LogD3D11RHI:       8144/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.22-23.47.00:663][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.12.22-23.47.00:663][  0]LogD3D11RHI:       128/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.12.22-23.47.00:668][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.22-23.47.00:668][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.22-23.47.00:668][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.22-23.47.00:751][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.22-23.47.00:751][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.22-23.47.00:751][  0]LogWindows: EnumDisplayDevices:
+[2021.12.22-23.47.00:752][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.12.22-23.47.00:752][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.12.22-23.47.00:754][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.12.22-23.47.00:755][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2021.12.22-23.47.00:756][  0]LogWindows:    4. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2021.12.22-23.47.00:757][  0]LogWindows:    5. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2021.12.22-23.47.00:758][  0]LogWindows:    6. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2021.12.22-23.47.00:759][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.12.22-23.47.00:759][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2021.12.22-23.47.00:759][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2021.12.22-23.47.00:759][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2021.12.22-23.47.00:759][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2021.12.22-23.47.00:820][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.22-23.47.00:820][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.22-23.47.00:820][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.22-23.47.00:839][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.22-23.47.00:843][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.22-23.47.01:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.22-23.47.01:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.22-23.47.01:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.22-23.47.01:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.22-23.47.01:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.22-23.47.01:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.22-23.47.01:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.22-23.47.01:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.22-23.47.01:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.22-23.47.01:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.22-23.47.01:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.22-23.47.01:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.22-23.47.01:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.22-23.47.01:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.22-23.47.01:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.22-23.47.01:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.22-23.47.01:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.22-23.47.01:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.22-23.47.01:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.22-23.47.01:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.22-23.47.01:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.22-23.47.01:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.22-23.47.01:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.22-23.47.01:683][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.22-23.47.01:695][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.22-23.47.01:786][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.22-23.47.01:786][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../UE4Game/PublicActGame/SIN_MUSOU/Intermediate/Shaders/WorkingDirectory/15388/).
+[2021.12.22-23.47.01:786][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DadA/AppData/Local/Temp/UnrealShaderWorkingDir/7681DFB8496DEE5ACE4DB1BBE513C7B7/'.
+[2021.12.22-23.47.01:787][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.22-23.47.01:787][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.22-23.47.02:770][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.22-23.47.02:837][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/DadA/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.22-23.47.02:837][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DadA/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.12.22-23.47.02:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UE4Game/PublicActGame/SIN_MUSOU/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.22-23.47.02:837][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.22-23.47.02:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UE4Game/PublicActGame/SIN_MUSOU/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.22-23.47.02:837][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.22-23.47.02:852][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.22-23.47.02:852][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.22-23.47.02:852][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.22-23.47.02:876][  0]LogDerivedDataCache: Speed tests for C:/Users/DadA/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.12.22-23.47.02:876][  0]LogDerivedDataCache: Display: Performance to C:/Users/DadA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.14ms. RandomReadSpeed=388.55MBs, RandomWriteSpeed=50.75MBs. Assigned SpeedClass 'Local'
+[2021.12.22-23.47.02:877][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DadA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.22-23.47.02:877][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.22-23.47.02:877][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.22-23.47.02:954][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.22-23.47.02:954][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.22-23.47.02:992][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2021.12.22-23.47.03:303][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.22-23.47.03:303][  0]LogInit: Active device profile: [000001B5A7F21D00][000001B59F3AD6C0 49] Windows
+[2021.12.22-23.47.03:303][  0]LogInit: Profiles: [000001B5A7F21D00][000001B59F3AD6C0 49] Windows, [000001B5A7ED6B00][000001B5A774B800 49] WindowsNoEditor, [000001B5A7F20D00][000001B587387940 49] WindowsServer, [000001B5A7ED7800][000001B5A8761AC0 49] WindowsClient, [000001B5A7F22A00][000001B5A8765C40 49] IOS, [000001B5A7ED4A00][000001B5A8768100 49] iPadAir, [000001B5A7F22D00][000001B5A876C280 49] iPadAir2, [000001B5A7E83000][000001B5A8774540 49] IPadPro, [000001B5A7E83100][000001B5A8770580 49] iPadAir3, [000001B5A7F21500][000001B5A8778700 49] iPadAir4, [000001B5A7E82800][000001B5A877C880 49] iPadMini2, [000001B5A7F23200][000001B5A8780A00 49] iPadMini3, [000001B5A7E81600][000001B5A8784B80 49] iPadMini4, [000001B5A7F21200][000001B5A8788D00 49] iPadMini5, [000001B5A7EA2900][000001B5A87AEFC0 49] iPhone6, [000001B5A7EA2A00][000001B5A87AB000 49] iPodTouch6, [000001B5A7E82500][000001B5A87B72C0 49] iPhone7, [000001B5A7E83700][000001B5A87B3300 49] iPodTouch7, [000001B5A7EA2700][000001B5A87BB480 49] iPhone5S, [000001B5A7E80100][000001B5A87BF600 49] iPhone6Plus, [000001B5A7EA1400][000001B58738B740 49] iPhone6S, [000001B5A7E80600][000001B5A87C3880 49] iPhone6SPlus, [000001B5A7EA0200][000001B5A87C79C0 49] iPhone7Plus, [000001B5A7E83200][000001B5A87CFB40 49] iPhoneSE, [000001B5A7EA3000][000001B5A87D3CC0 49] iPhone8, [000001B5A7E83F00][000001B5A87D6180 49] iPhone8Plus, [000001B5A7EA1C00][000001B5A87DA300 49] iPhoneX, [000001B5A7E82200][000001B5A87DE480 49] iPhoneXS, [000001B5A7EA0300][000001B5A87E2600 49] iPhoneXSMax, [000001B5A7E81700][000001B5A87E6780 49] iPhoneXR, [000001B5A7EA3F00][000001B5A87EA900 49] iPhone11, [000001B5A7E81B00][000001B5A87EEA80 49] iPhone11Pro, [000001B5A7EA3500][000001B5A87F2C00 49] iPhone11ProMax, [000001B5A7E82C00][000001B5A87F6D80 49] iPhoneSE2, [000001B5A7EA2F00][000001B5A87FAF00 49] iPhone12Mini, [000001B5A7E80C00][000001B5A87FF080 49] iPhone12, [000001B5A7EA3C00][000001B5A8803200 49] iPhone12Pro, [000001B5A7E81800][000001B5A8807380 49] iPhone12ProMax, [000001B5A7EA3900][000001B5A880B500 49] iPadPro105, [000001B5A7E82600][000001B5A880F680 49] iPadPro129, [000001B5A7E80800][000001B5A87CB7C0 49] iPadPro97, [000001B5A7ED5A00][000001B5A8813900 49] iPadPro2_129, [000001B5A7E83800][000001B5A8817A40 49] iPad5, [000001B5A7ED4C00][000001B5A881BB80 49] iPad6, [000001B5A7E81F00][000001B5A8823D00 49] iPad7, [000001B5A7ED6400][000001B5A88261C0 49] iPad8, [000001B5A7E82900][000001B5A882A340 49] iPadPro11, [000001B5A7ED5400][000001B5A882E4C0 49] iPadPro2_11, [000001B5A7ED5700][000001B5A8874640 49] iPadPro3_129, [000001B5A7EA1B00][000001B5A88787C0 49] iPadPro4_129, [000001B5A7ED5200][000001B5A887C940 49] AppleTV, [000001B5A7EA0900][000001B5A8880AC0 49] AppleTV4K, [000001B5A7ED7D00][000001B5A8884C40 49] TVOS, [000001B5A7EA3D00][000001B5A88CADC0 49] Mac, [000001B5A7ED7000][000001B5A88CEF40 49] MacClient, [000001B5A7EA1900][000001B5A88D30C0 49] MacNoEditor, [000001B5A7E82400][000001B5A88D7240 49] MacServer, [000001B5A7EA3700][000001B5A88DB3C0 49] Linux, [000001B5A7E81200][000001B5A88DF540 49] LinuxNoEditor, [000001B5A7EA2600][000001B5A88E36C0 49] LinuxAArch64NoEditor, [000001B5A7E81D00][000001B5A881F800 49] LinuxClient, [000001B5A7EA3400][000001B5A88E7940 49] LinuxAArch64Client, [000001B5A7E81100][000001B5A88EBA80 49] LinuxServer, [000001B5A7EA1200][000001B5A88EFBC0 49] LinuxAArch64Server, [000001B5A7E82B00][000001B5A88F7D40 49] Android, [000001B5A7EA2500][000001B5A88FA200 49] Android_Low, [000001B5A7E81400][000001B5A88FE380 49] Android_Mid, [000001B5A7EA0600][000001B5A8902500 49] Android_High, [000001B5A7E82A00][000001B5A8906680 49] Android_Default, [000001B5A7EA1800][000001B5A890A800 49] Android_Adreno4xx, [000001B5A7E83D00][000001B5A890E980 49] Android_Adreno5xx_Low, [000001B5A7EA0400][000001B5A8912B00 49] Android_Adreno5xx, [000001B5A7E83300][000001B5A8916C80 49] Android_Adreno6xx, [000001B5A7EA0800][000001B5A891AE00 49] Android_Adreno6xx_Vulkan, [000001B5A7E81A00][000001B5A891EF80 49] Android_Mali_T6xx, [000001B5A7EA2B00][000001B5A8923100 49] Android_Mali_T7xx, [000001B5A7E80900][000001B5A8927280 49] Android_Mali_T8xx, [000001B5A7EA2E00][000001B5A892B400 49] Android_Mali_G71, [000001B5A7E80E00][000001B5A892F580 49] Android_Mali_G72, [000001B5A7EA2C00][000001B5A8933700 49] Android_Mali_G72_Vulkan, [000001B5A7E83E00][000001B5A8937880 49] Android_Mali_G76, [000001B5A7EA1D00][000001B5A88F39C0 49] Android_Mali_G76_Vulkan, [000001B5A7E80700][000001B5A893BB00 49] Android_Mali_G77, [000001B5A7EA2400][000001B5A893FC40 49] Android_Mali_G77_Vulkan, [000001B5A7E81C00][000001B5A8946100 49] Android_Vulkan_SM5, [000001B5A7EA2100][000001B5A894A280 49] Android_PowerVR_G6xxx, [000001B5A7E82F00][000001B5A894E400 49] Android_PowerVR_GT7xxx, [000001B5A7EA3800][000001B5A8952580 49] Android_PowerVR_GE8xxx, [000001B5A7E82300][000001B5A8956700 49] Android_PowerVR_GM9xxx, [000001B5A7EA1E00][000001B5A895A880 49] Android_PowerVR_GM9xxx_Vulkan, [000001B5A7E83400][000001B5A895EA00 49] Android_TegraK1, [000001B5A7EA0B00][000001B5A8962B80 49] Android_Unknown_Vulkan, [000001B5A7E83900][000001B5A8966D00 49] Lumin, [000001B5A7EA1000][000001B5A89CCE80 49] Lumin_Desktop, [000001B5A7ED7900][000001B5A89D1000 49] HoloLens, 
+[2021.12.22-23.47.03:459][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.22-23.47.03:459][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.22-23.47.03:459][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.22-23.47.03:459][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.22-23.47.03:459][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.22-23.47.03:493][  0]LogNetVersion: SIN_MUSOU 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 388965808)
+[2021.12.22-23.47.04:139][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.22-23.47.04:558][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.417756 seconds
+[2021.12.22-23.47.04:564][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.12.22-23.47.04:564][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.12.22-23.47.04:564][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.22-23.47.05:120][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.22-23.47.05:127][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.22-23.47.05:258][  0]SourceControl: ソースコントロールは無効です
+[2021.12.22-23.47.05:258][  0]SourceControl: ソースコントロールは無効です
+[2021.12.22-23.47.05:264][  0]SourceControl: ソースコントロールは無効です
+[2021.12.22-23.47.05:268][  0]SourceControl: ソースコントロールは無効です
+[2021.12.22-23.47.05:289][  0]SourceControl: ソースコントロールは無効です
+[2021.12.22-23.47.05:293][  0]LogUProjectInfo: Found projects:
+[2021.12.22-23.47.05:648][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.22-23.47.05:678][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.22-23.47.05:678][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.22-23.47.05:749][  0]LogCollectionManager: Loaded 0 collections in 0.001981 seconds
+[2021.12.22-23.47.05:779][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Game/PublicActGame/SIN_MUSOU/Saved/Collections/' took 0.00s
+[2021.12.22-23.47.05:779][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Game/PublicActGame/SIN_MUSOU/Content/Developers/DadA/Collections/' took 0.00s
+[2021.12.22-23.47.05:779][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Game/PublicActGame/SIN_MUSOU/Content/Collections/' took 0.00s
+[2021.12.22-23.47.05:779][  0]LogOcInput: OculusInput pre-init called
+[2021.12.22-23.47.05:797][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.12.22-23.47.05:797][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.12.22-23.47.05:856][  0]LogEngine: Initializing Engine...
+[2021.12.22-23.47.06:117][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.22-23.47.06:202][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.22-23.47.06:237][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.12.22-23.47.06:390][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.22-23.47.06:402][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.22-23.47.06:427][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.22-23.47.06:434][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.22-23.47.06:434][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.22-23.47.06:434][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.22-23.47.06:434][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.22-23.47.06:434][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.22-23.47.06:434][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.22-23.47.06:434][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.22-23.47.06:434][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.22-23.47.06:434][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.22-23.47.06:434][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.22-23.47.06:435][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.22-23.47.06:435][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.22-23.47.06:467][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.22-23.47.06:467][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.22-23.47.06:535][  0]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek High Definition Audio)
+[2021.12.22-23.47.06:539][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.22-23.47.06:542][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.22-23.47.06:542][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.22-23.47.06:543][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.22-23.47.06:543][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.22-23.47.06:543][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.22-23.47.06:545][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.22-23.47.06:545][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.22-23.47.06:545][  0]LogInit: FAudioDevice initialized.
+[2021.12.22-23.47.06:545][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.22-23.47.06:545][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.22-23.47.06:642][  0]LogDerivedDataCache: Saved boot cache 0.10s 77MB C:/Users/DadA/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.22-23.47.06:647][  0]LogInit: Texture streaming: Enabled
+[2021.12.22-23.47.06:665][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.12.22-23.47.06:673][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.22-23.47.06:673][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.22-23.47.06:682][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.22-23.47.06:888][  0]LogInit: Transaction tracking system initialized
+[2021.12.22-23.47.06:920][  0]BlueprintLog: New page: エディタの読み込み
+[2021.12.22-23.47.07:016][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2021.12.22-23.47.07:049][  0]TimingProfiler: Initialize
+[2021.12.22-23.47.07:049][  0]TimingProfiler: OnSessionChanged
+[2021.12.22-23.47.07:049][  0]LoadingProfiler: Initialize
+[2021.12.22-23.47.07:049][  0]LoadingProfiler: OnSessionChanged
+[2021.12.22-23.47.07:049][  0]NetworkingProfiler: Initialize
+[2021.12.22-23.47.07:049][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.22-23.47.07:049][  0]MemoryProfiler: Initialize
+[2021.12.22-23.47.07:049][  0]MemoryProfiler: OnSessionChanged
+[2021.12.22-23.47.07:547][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.22-23.47.07:547][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.22-23.47.07:771][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Game/PublicActGame/SIN_MUSOU/Content/' took 0.17s
+[2021.12.22-23.47.08:065][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.22-23.47.08:073][  0]SourceControl: ソースコントロールは無効です
+[2021.12.22-23.47.08:073][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.346
+[2021.12.22-23.47.08:074][  0]Cmd: MAP LOAD FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Map/battleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.22-23.47.08:074][  0]LightingResults: New page: ライティングのビルド
+[2021.12.22-23.47.08:075][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.47.08:075][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-23.47.08:075][  0]MapCheck: New page: マップをチェック
+[2021.12.22-23.47.08:075][  0]LightingResults: New page: <何も選択されていません>
+[2021.12.22-23.47.08:083][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.22-23.47.16:039][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'battleMap'.
+[2021.12.22-23.47.16:040][  0]LogAIModule: Creating AISystem for world battleMap
+[2021.12.22-23.47.17:913][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.22-23.47.18:118][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.12.22-23.47.18:129][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.22-23.47.18:129][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.092ミリ秒かかりました。
+[2021.12.22-23.47.18:129][  0]LogFileHelpers: Loading map 'battleMap' took 10.055
+[2021.12.22-23.47.18:155][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.429
+[2021.12.22-23.47.21:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-23.47.21:320][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-23.47.21:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-23.47.21:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-23.47.23:264][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0129 seconds. Added 3601 classes and 859 folders.
+[2021.12.22-23.47.23:765][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.22-23.47.24:188][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.22-23.47.24:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.22-23.47.24:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.12.22-23.47.24:259][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.22-23.47.24:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.22-23.47.24:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.12.22-23.47.24:284][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.22-23.47.24:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.22-23.47.24:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.12.22-23.47.24:327][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.22-23.47.24:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.22-23.47.24:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.12.22-23.47.24:344][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.22-23.47.24:345][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:345][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.22-23.47.24:345][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.12.22-23.47.24:352][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.22-23.47.24:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:352][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.22-23.47.24:352][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.12.22-23.47.24:460][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.22-23.47.24:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.22-23.47.24:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.12.22-23.47.24:486][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.22-23.47.24:486][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:486][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.22-23.47.24:486][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.12.22-23.47.24:526][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.22-23.47.24:526][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:526][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.22-23.47.24:526][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.12.22-23.47.24:534][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.22-23.47.24:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.22-23.47.24:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.22-23.47.24:582][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.22-23.47.24:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:582][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.22-23.47.24:582][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.12.22-23.47.24:615][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.22-23.47.24:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.22-23.47.24:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.12.22-23.47.24:646][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.22-23.47.24:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.22-23.47.24:647][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.12.22-23.47.24:735][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.22-23.47.24:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.22-23.47.24:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.12.22-23.47.24:766][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.22-23.47.24:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.22-23.47.24:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.12.22-23.47.24:812][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.22-23.47.24:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.22-23.47.24:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.12.22-23.47.24:831][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.22-23.47.24:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.22-23.47.24:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.12.22-23.47.24:902][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.22-23.47.24:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.24:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.22-23.47.24:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.12.22-23.47.25:034][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.22-23.47.25:034][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.25:034][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.22-23.47.25:034][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.12.22-23.47.25:087][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.22-23.47.25:087][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.25:087][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.22-23.47.25:087][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.12.22-23.47.25:160][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.22-23.47.25:160][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.25:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.22-23.47.25:160][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.12.22-23.47.25:203][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.22-23.47.25:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.25:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.22-23.47.25:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.12.22-23.47.25:225][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.22-23.47.25:225][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.25:225][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.22-23.47.25:225][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.12.22-23.47.25:316][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.22-23.47.25:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.25:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.22-23.47.25:316][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.12.22-23.47.25:347][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.22-23.47.25:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.25:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.22-23.47.25:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.12.22-23.47.25:384][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.22-23.47.25:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.22-23.47.25:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.22-23.47.25:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.12.22-23.47.31:901][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.22-23.47.32:352][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2021.12.22-23.47.37:490][  0]LogSlate: Took 0.000566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.22-23.47.37:492][  0]LogSlate: Took 0.000639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2021.12.22-23.47.37:503][  0]LogSlate: Took 0.000830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2021.12.22-23.47.37:504][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.22-23.47.37:702][  0]LogSlate: Took 0.029327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.22-23.47.38:624][  0]LogRenderer: Reallocating scene render targets to support 920x672 Format 10 NumSamples 1 (Frame:1).
+[2021.12.22-23.47.40:149][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.12.22-23.47.40:150][  0]LogLoad: (Engine Initialization) Total time: 44.42 seconds
+[2021.12.22-23.47.40:150][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.22-23.47.40:150][  0]LogInit: First time updating LLM stats...
+[2021.12.22-23.47.40:766][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.22-23.47.41:428][  2]LogAssetRegistry: Asset discovery search completed in 38.4385 seconds
+[2021.12.22-23.47.41:430][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.12.22-23.47.41:902][  3]LogSlate: Took 0.032455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2021.12.22-23.47.41:925][  3]LogSlate: Took 0.022832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.22-23.47.42:572][ 33]LogLinker: Warning:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin' のロードに失敗しました: ファイルが見つかりません
+[2021.12.22-23.47.42:572][ 33]LogLinker: Warning:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin' のロードに失敗しました: ファイルが見つかりません
+[2021.12.22-23.47.42:572][ 33]LogUObjectGlobals: Warning: オブジェクト 'Object /Game/DynamicSwordAnimset/Character/SK_Mannequin.SK_Mannequin' が見つかりませんでした
+[2021.12.22-23.47.46:904][242]LogTemp: Repeating last play command: 選択ビューポート
+[2021.12.22-23.47.46:977][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.22-23.47.47:089][242]PIE: New page: PIEセッション: battleMap (2021/12/23 17:47:47)
+[2021.12.22-23.47.47:107][242]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.22-23.47.47:122][242]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.22-23.47.47:166][242]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_battleMap
+[2021.12.22-23.47.47:307][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140527s)
+[2021.12.22-23.47.47:327][242]LogAIModule: Creating AISystem for world battleMap
+[2021.12.22-23.47.47:328][242]LogPlayLevel: PIE: World Init took: (0.020958s)
+[2021.12.22-23.47.47:328][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/battleMap.battleMap to /Game/Map/UEDPIE_0_battleMap.battleMap (0.161743s)
+[2021.12.22-23.47.47:353][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.22-23.47.47:355][242]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.22-23.47.47:355][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.22-23.47.47:355][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.22-23.47.47:355][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.22-23.47.47:355][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.22-23.47.47:355][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.22-23.47.47:355][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.22-23.47.47:355][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.22-23.47.47:355][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.22-23.47.47:356][242]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.22-23.47.47:356][242]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.22-23.47.47:363][242]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.22-23.47.47:363][242]LogAudioMixer: Display: 1: FrontRight
+[2021.12.22-23.47.47:407][242]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek High Definition Audio)
+[2021.12.22-23.47.47:407][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.22-23.47.47:407][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.22-23.47.47:407][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.22-23.47.47:408][242]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.22-23.47.47:408][242]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.22-23.47.47:408][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.22-23.47.47:429][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.22-23.47.47:429][242]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.22-23.47.47:429][242]LogInit: FAudioDevice initialized.
+[2021.12.22-23.47.47:429][242]LogAudio: Display: Audio Device (ID: 2) registered with world 'battleMap'.
+[2021.12.22-23.47.47:637][242]LogLoad: Game class is 'ActGameMode_C'
+[2021.12.22-23.47.47:849][242]LogWorld: Bringing World /Game/Map/UEDPIE_0_battleMap.battleMap up for play (max tick rate 60) at 2021.12.23-08.47.47
+[2021.12.22-23.47.48:220][242]LogWorld: Bringing up level for play took: 0.414423
+[2021.12.22-23.47.48:239][242]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.12.22-23.47.48:490][242]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.12.22-23.47.48:762][242]PIE: サーバーにログインしました
+[2021.12.22-23.47.48:795][242]PIE: PIE合計開始時間 1.881 秒。
+[2021.12.22-23.48.03:388][ 39]LogBlueprintUserMessages: [Enemy_5] Im Dead
+[2021.12.22-23.48.03:686][ 57]LogBlueprintUserMessages: [Enemy_01_2] Im Dead
+[2021.12.22-23.48.03:686][ 57]LogBlueprintUserMessages: [Enemy_5] Im Dead
+[2021.12.22-23.48.06:008][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-23.48.06:008][188]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_battleMap
+[2021.12.22-23.48.06:035][188]LogWorld: UWorld::CleanupWorld for battleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.48.06:053][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-23.48.06:087][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.22-23.48.06:098][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-23.48.06:167][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.22-23.48.06:167][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-23.48.06:168][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.22-23.48.06:209][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.22-23.48.06:240][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.12.22-23.48.06:278][189]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.12.22-23.48.17:065][800]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.22-23.48.17:637][800]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/VigilanteContent/Shared/HUD/Widgets/Components/W_Separator.W_Separator_C:Construct; removing parent information, but keeping function
+[2021.12.22-23.48.17:905][800]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\WiderPlatform.umap:  '/Game/_Deprecated/Blueprints/BP_GameModeDeprecated' のロードに失敗しました: ファイルが見つかりません
+[2021.12.22-23.48.17:905][800]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\WiderPlatform.umap:  '/Game/_Deprecated/Blueprints/BP_GameModeDeprecated' のロードに失敗しました: ファイルが見つかりません
+[2021.12.22-23.48.18:054][800]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\WiderPlatform.umap:  '/Game/_Deprecated/Blueprints/BP_GameModeDeprecated' のロードに失敗しました: ファイルが見つかりません
+[2021.12.22-23.48.18:193][800]LogLinker: Warning:  '/Game/_Deprecated/Blueprints/BP_GameModeDeprecated' のロードに失敗しました: ファイルが見つかりません
+[2021.12.22-23.48.18:193][800]LogLinker: Warning:  '/Game/_Deprecated/Blueprints/BP_GameModeDeprecated' のロードに失敗しました: ファイルが見つかりません
+[2021.12.22-23.48.18:215][800]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\WiderPlatform.umap:  '/Game/_Deprecated/Blueprints/BP_GameModeDeprecated' のロードに失敗しました: ファイルが見つかりません
+[2021.12.22-23.48.18:227][800]LoadErrors: ロードに失敗しました /Game/_Deprecated/Blueprints/BP_GameModeDeprecated.BP_GameModeDeprecated_C 参照元 WorldSettings_1
+[2021.12.22-23.48.20:043][800]LogTexture: Display: テクスチャをビルドしています:T_Vigilante_Logo_D (AutoDXT、2048X2048)
+[2021.12.22-23.48.20:043][800]LogTexture: Display: テクスチャをビルドしています:T_Vigilante_Logo_ARM (AutoDXT、2048X2048)
+[2021.12.22-23.48.20:043][800]LogTexture: Display: テクスチャをビルドしています:T_Vigilante_Logo_N (BC5、2048X2048)
+[2021.12.22-23.48.20:931][800]LogStaticMesh: スタティックメッシュ SM_Platform をビルド中...
+[2021.12.22-23.48.22:280][800]LogStaticMesh: Built static mesh [2.23s] /Game/VigilanteContent/Shared/Map/Platform/Cylinder/SM_Platform.SM_Platform
+[2021.12.22-23.48.22:347][800]LogStaticMesh: スタティックメッシュ SM_Vigilante_Logo をビルド中...
+[2021.12.22-23.48.22:388][800]LogStaticMesh: Built static mesh [0.04s] /Game/VigilanteContent/Shared/Map/Platform/LOGO/SM_Vigilante_Logo.SM_Vigilante_Logo
+[2021.12.22-23.48.35:583][800]LogTexture: Display: テクスチャをビルドしています:T_Platform_ARM (AutoDXT、4096X4096)
+[2021.12.22-23.48.35:583][800]LogTexture: Display: テクスチャをビルドしています:T_Platform_D (AutoDXT、4096X4096)
+[2021.12.22-23.48.35:583][800]LogTexture: Display: テクスチャをビルドしています:T_Platform_N (BC5、4096X4096)
+[2021.12.22-23.48.35:583][800]LogMaterial: Display: Missing cached shader map for material M_Platform, compiling. 
+[2021.12.22-23.48.35:938][800]LogMaterial: Display: Missing cached shader map for material M_Vigilante_Logo, compiling. 
+[2021.12.22-23.48.35:953][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.12.22-23.48.35:953][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.12.22-23.48.35:953][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.12.22-23.48.35:953][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.12.22-23.48.36:309][800]LogMaterial: Display: Missing cached shader map for material M_Master_Damaged, compiling. 
+[2021.12.22-23.48.36:825][800]LogMaterial: Display: Missing cached shader map for material M_Master_Glass, compiling. 
+[2021.12.22-23.48.36:922][800]LogMaterial: Display: Missing cached shader map for material M_Master_Glass_ARM_N, compiling. 
+[2021.12.22-23.48.42:209][800]LogTexture: Display: テクスチャをビルドしています:T_BlurNormalSphere_N (BC5、1024X1024)
+[2021.12.22-23.48.42:209][800]LogTexture: Display: テクスチャをビルドしています:T_SoftSmokeBall_VL144_a (AutoDXT、4096X4096)
+[2021.12.22-23.48.42:209][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 201
+[2021.12.22-23.48.42:209][800]LogMaterial: Display: Missing cached shader map for material M_12X12_Smokes_01_M, compiling. 
+[2021.12.22-23.48.43:286][800]LogTexture: Display: テクスチャをビルドしています:T_2X2_MuzzlePoint_01_CH (AutoDXT、512X512)
+[2021.12.22-23.48.43:286][800]LogTexture: Display: テクスチャをビルドしています:T_RGBA_CumulusTiled_01 (AutoDXT、1024X1024)
+[2021.12.22-23.48.43:286][800]LogMaterial: Display: Missing cached shader map for material M_2X2_Fire_FlowMap_01_M, compiling. 
+[2021.12.22-23.48.43:497][800]LogTexture: Display: テクスチャをビルドしています:T_2x2_Dusts_01_BC (AutoDXT、256X256)
+[2021.12.22-23.48.43:497][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_Debris_01_M, compiling. 
+[2021.12.22-23.48.43:623][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_MuzzleFlash_B, compiling. 
+[2021.12.22-23.48.43:662][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_MuzzleFlash_R, compiling. 
+[2021.12.22-23.48.44:482][800]LogTexture: Display: テクスチャをビルドしています:T_2X2_Smokes_01_CH (AutoDXT、512X512)
+[2021.12.22-23.48.44:483][800]LogTexture: Display: テクスチャをビルドしています:T_Smoke_Variation_01_CH (AutoDXT、1024X1024)
+[2021.12.22-23.48.44:483][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 447
+[2021.12.22-23.48.44:483][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 437
+[2021.12.22-23.48.44:483][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_Smokes_01_M, compiling. 
+[2021.12.22-23.48.44:829][800]LogTexture: Display: テクスチャをビルドしています:T_4X1_MuzzleSide_01_CH (AutoDXT、1024X512)
+[2021.12.22-23.48.44:829][800]LogMaterial: Display: Missing cached shader map for material M_4X1_SubUV_MuzzleFlash_G, compiling. 
+[2021.12.22-23.48.44:916][800]LogMaterial: Display: Missing cached shader map for material M_4X1_SubUV_MuzzleFlash_R, compiling. 
+[2021.12.22-23.48.45:154][800]LogTexture: Display: テクスチャをビルドしています:T_Cone_EngineBooster_01_CH (AutoDXT、256X256)
+[2021.12.22-23.48.45:154][800]LogTexture: Display: テクスチャをビルドしています:T_Stencil_Sphere_Ring_CH_01 (AutoDXT、512X512)
+[2021.12.22-23.48.45:154][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_01_M, compiling. 
+[2021.12.22-23.48.45:202][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_02_M, compiling. 
+[2021.12.22-23.48.45:272][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 655
+[2021.12.22-23.48.45:272][800]LogMaterial: Display: Missing cached shader map for material M_Distortion_Master, compiling. 
+[2021.12.22-23.48.45:369][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_01_M, compiling. 
+[2021.12.22-23.48.45:418][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_02_M, compiling. 
+[2021.12.22-23.48.45:461][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_03_M, compiling. 
+[2021.12.22-23.48.45:989][800]LogTexture: Display: テクスチャをビルドしています:T_SoftSmoke_Centered_a (AutoDXT、2048X2048)
+[2021.12.22-23.48.45:989][800]LogMaterial: Display: Missing cached shader map for material M_SoftSmokeCentered_VL_01, compiling. 
+[2021.12.22-23.48.46:258][800]LogMaterial: Display: Missing cached shader map for material M_WheelDust, compiling. 
+[2021.12.22-23.48.50:398][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 999
+[2021.12.22-23.48.50:398][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 989
+[2021.12.22-23.48.50:398][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 979
+[2021.12.22-23.48.50:398][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 969
+[2021.12.22-23.48.50:398][800]LogStaticMesh: スタティックメッシュ SM_AfterBurner_Cylinder をビルド中...
+[2021.12.22-23.48.50:400][800]LogStaticMesh: Built static mesh [0.00s] /Game/VigilanteContent/Shared/Particles/StaticMeshes/SM_AfterBurner_Cylinder.SM_AfterBurner_Cylinder
+[2021.12.22-23.48.50:416][800]LogStaticMesh: スタティックメッシュ SM_RocketBooster_02_SM をビルド中...
+[2021.12.22-23.48.50:428][800]LogStaticMesh: Built static mesh [0.01s] /Game/VigilanteContent/Shared/Particles/StaticMeshes/SM_RocketBooster_02_SM.SM_RocketBooster_02_SM
+[2021.12.22-23.48.50:443][800]LogStaticMesh: スタティックメッシュ SM_RocketBooster_03_SM をビルド中...
+[2021.12.22-23.48.50:447][800]LogStaticMesh: Built static mesh [0.01s] /Game/VigilanteContent/Shared/Particles/StaticMeshes/SM_RocketBooster_03_SM.SM_RocketBooster_03_SM
+[2021.12.22-23.49.08:213][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 959
+[2021.12.22-23.49.08:213][800]LogTexture: Display: テクスチャをビルドしています:ThumbnailTexture (DXT1、512X512)
+[2021.12.22-23.49.08:213][800]LogTexture: Display: テクスチャをビルドしています:ThumbnailTexture (DXT1、512X512)
+[2021.12.22-23.49.08:213][800]LogTexture: Display: テクスチャをビルドしています:ThumbnailTexture (DXT1、512X512)
+[2021.12.22-23.49.08:213][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 949
+[2021.12.22-23.49.08:213][800]LogTexture: Display: テクスチャをビルドしています:T_West_Tank_M1A1Abrams_Damaged_ARM (AutoDXT、4096X4096)
+[2021.12.22-23.49.08:213][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 939
+[2021.12.22-23.49.08:213][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 929
+[2021.12.22-23.49.08:213][800]LogTexture: Display: テクスチャをビルドしています:T_West_Tank_M1A1Abrams_Damaged_D (AutoDXT、4096X4096)
+[2021.12.22-23.49.08:213][800]LogTexture: Display: テクスチャをビルドしています:T_West_Tank_M1A1Abrams_Damaged_N (BC5、4096X4096)
+[2021.12.22-23.49.08:213][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 919
+[2021.12.22-23.49.08:213][800]LogStaticMesh: スタティックメッシュ SM_West_Tank_M1A1Abrams_Damaged をビルド中...
+[2021.12.22-23.49.12:664][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 909
+[2021.12.22-23.49.12:664][800]LogStaticMesh: Built static mesh [4.45s] /Game/VigilanteContent/Vehicles/West_Tank_M1A1Abrams/Damaged/SM_West_Tank_M1A1Abrams_Damaged.SM_West_Tank_M1A1Abrams_Damaged
+[2021.12.22-23.49.13:227][800]LogTexture: Display: テクスチャをビルドしています:ThumbnailTexture (DXT1、512X512)
+[2021.12.22-23.49.13:227][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 899
+[2021.12.22-23.49.13:227][800]LogTexture: Display: テクスチャをビルドしています:HQ_Lightmap0_2 (AutoDXT、128X128)
+[2021.12.22-23.49.13:227][800]LogTexture: Display: テクスチャをビルドしています:LQ_Lightmap_0_2 (DXT1、128X128)
+[2021.12.22-23.49.18:015][800]LogTexture: Display: テクスチャをビルドしています:HQ_Lightmap0_1 (AutoDXT、128X128)
+[2021.12.22-23.49.18:015][800]LogTexture: Display: テクスチャをビルドしています:HQ_Lightmap0_3 (AutoDXT、64X64)
+[2021.12.22-23.49.18:016][800]LogTexture: Display: テクスチャをビルドしています:LQ_Lightmap_0_1 (DXT1、128X128)
+[2021.12.22-23.49.18:016][800]LogTexture: Display: テクスチャをビルドしています:LQ_Lightmap_0_3 (DXT1、64X64)
+[2021.12.22-23.49.18:016][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 889
+[2021.12.22-23.49.19:854][800]LogTexture: Display: テクスチャをビルドしています:NewReflectionComponentTexture4E877D1C421DEFB23EFC3E840B8164F0 (BGRA8、1024X1024)
+[2021.12.22-23.49.19:854][800]LogTexture: Display: テクスチャをビルドしています:NewReflectionComponentTexture84058D20468355EAF294AC96889DBDC7 (BGRA8、1024X1024)
+[2021.12.22-23.49.19:854][800]LogTexture: Display: テクスチャをビルドしています:NewReflectionComponentTexture90B311C74546BA473ACA44A077AD254B (BGRA8、1024X1024)
+[2021.12.22-23.49.19:854][800]LogTexture: Display: テクスチャをビルドしています:NewReflectionComponentTexture6C776D724C97D09C7FA1DF9EF4C635B8 (BGRA8、1024X1024)
+[2021.12.22-23.49.19:854][800]LogTexture: Display: テクスチャをビルドしています:NewReflectionComponentTexture83D6431E4C3196ED31614C95D415EBBC (BGRA8、1024X1024)
+[2021.12.22-23.49.19:854][800]LogTexture: Display: テクスチャをビルドしています:NewReflectionComponentTextureB546A5CE4268B48065A97187A4D56828 (BGRA8、1024X1024)
+[2021.12.22-23.49.20:990][800]LogObjectTools: Deleting 6 worlds: /Game/VigilanteContent/Shared/Map/WiderPlatform.WiderPlatform, /Game/VigilanteContent/Shared/Vehicle_lightRig/VLR.VLR, /Game/VigilanteContent/Vehicles/West_Tank_M1A1Abrams/Level/West_Tank_M1A1Abrams.West_Tank_M1A1Abrams, /Game/VigilanteContent/Vehicles/West_Tank_M1A1Abrams/Level/West_Tank_M1A1Abrams_LTG.West_Tank_M1A1Abrams_LTG, /Game/VigilanteContent/Vehicles/West_Tank_M1A1Abrams/Level/West_Tank_M1A1Abrams_SEQUENCER.West_Tank_M1A1Abrams_SEQUENCER, /Game/VigilanteContent/Vehicles/West_Tank_M1A1Abrams/Level/West_Tank_M1A1Abrams_Vehicle.West_Tank_M1A1Abrams_Vehicle
+[2021.12.22-23.49.20:990][800]LogObjectTools: Currently 3 active worlds: /Game/Map/battleMap.battleMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2021.12.22-23.49.21:137][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.12.22-23.49.24:555][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 879
+[2021.12.22-23.49.28:768][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 869
+[2021.12.22-23.49.35:599][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 859
+[2021.12.22-23.49.40:679][800]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.22-23.49.40:877][800]LogUObjectGlobals: Force Deleting 103 Package(s):
+	Asset Name: /Game/VigilanteContent/Shared/Gamemode/BP_GameMode.BP_GameMode
+	Asset Name: /Game/VigilanteContent/Shared/Gamestate/BP_GameState.BP_GameState
+	Asset Name: /Game/VigilanteContent/Shared/HUD/BP_ShowcaseHidden.BP_ShowcaseHidden
+	Asset Name: /Game/VigilanteContent/Shared/HUD/BP_ShowcaseVisible.BP_ShowcaseVisible
+	Asset Name: /Game/VigilanteContent/Shared/HUD/Widgets/W_ShowcaseControls.W_ShowcaseControls
+	Asset Name: /Game/VigilanteContent/Shared/HUD/Widgets/W_VehicleControls.W_VehicleControls
+	Asset Name: /Game/VigilanteContent/Shared/HUD/Widgets/Components/W_BaseControls.W_BaseControls
+	Asset Name: /Game/VigilanteContent/Shared/HUD/Widgets/Components/W_ButtonsControl.W_ButtonsControl
+	Asset Name: /Game/VigilanteContent/Shared/HUD/Widgets/Components/W_CameraButton.W_CameraButton
+	Asset Name: /Game/VigilanteContent/Shared/HUD/Widgets/Components/W_CheckboxControl.W_CheckboxControl
+[2021.12.22-23.49.46:472][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 849
+[2021.12.22-23.49.47:970][800]LogMaterial: Display: Missing cached shader map for material M_Vigilante_Logo, compiling. 
+[2021.12.22-23.49.47:985][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\Platform\LOGO\Materials\M_Vigilante_Logo.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.47:995][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.47:997][800]LogMaterial: Display: Missing cached shader map for material M_Vigilante_Logo, compiling. 
+[2021.12.22-23.49.47:997][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\Platform\LOGO\Materials\M_Vigilante_Logo.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.47:998][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.47:999][800]LogMaterial: Display: Missing cached shader map for material M_Vigilante_Logo, compiling. 
+[2021.12.22-23.49.48:000][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\Platform\LOGO\Materials\M_Vigilante_Logo.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:000][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:003][800]LogMaterial: Display: Missing cached shader map for material M_Platform, compiling. 
+[2021.12.22-23.49.48:004][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\Platform\Cylinder\Materials\M_Platform.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:004][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:006][800]LogMaterial: Display: Missing cached shader map for material M_Platform, compiling. 
+[2021.12.22-23.49.48:006][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\Platform\Cylinder\Materials\M_Platform.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:006][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:008][800]LogMaterial: Display: Missing cached shader map for material M_Platform, compiling. 
+[2021.12.22-23.49.48:009][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Map\Platform\Cylinder\Materials\M_Platform.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:009][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:196][800]LogMaterial: Display: Missing cached shader map for material M_12X12_Smokes_01_M, compiling. 
+[2021.12.22-23.49.48:197][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_12X12_Smokes_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:197][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:199][800]LogMaterial: Display: Missing cached shader map for material M_12X12_Smokes_01_M, compiling. 
+[2021.12.22-23.49.48:200][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_12X12_Smokes_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:200][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:204][800]LogMaterial: Display: Missing cached shader map for material M_2X2_Fire_FlowMap_01_M, compiling. 
+[2021.12.22-23.49.48:205][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_Fire_FlowMap_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:205][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:207][800]LogMaterial: Display: Missing cached shader map for material M_2X2_Fire_FlowMap_01_M, compiling. 
+[2021.12.22-23.49.48:208][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_Fire_FlowMap_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:208][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:210][800]LogMaterial: Display: Missing cached shader map for material M_2X2_Fire_FlowMap_01_M, compiling. 
+[2021.12.22-23.49.48:211][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_Fire_FlowMap_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:211][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:226][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_Debris_01_M, compiling. 
+[2021.12.22-23.49.48:227][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_Debris_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:227][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:229][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_Debris_01_M, compiling. 
+[2021.12.22-23.49.48:229][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_Debris_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:229][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:231][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_Debris_01_M, compiling. 
+[2021.12.22-23.49.48:232][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_Debris_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:232][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:242][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_MuzzleFlash_B, compiling. 
+[2021.12.22-23.49.48:244][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_MuzzleFlash_B.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:244][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:246][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_MuzzleFlash_B, compiling. 
+[2021.12.22-23.49.48:247][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_MuzzleFlash_B.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:247][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:249][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_MuzzleFlash_B, compiling. 
+[2021.12.22-23.49.48:250][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_MuzzleFlash_B.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:250][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:260][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_MuzzleFlash_R, compiling. 
+[2021.12.22-23.49.48:261][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_MuzzleFlash_R.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:261][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:263][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_MuzzleFlash_R, compiling. 
+[2021.12.22-23.49.48:263][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_MuzzleFlash_R.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:263][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:265][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_MuzzleFlash_R, compiling. 
+[2021.12.22-23.49.48:265][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_MuzzleFlash_R.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:265][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:278][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_Smokes_01_M, compiling. 
+[2021.12.22-23.49.48:278][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_Smokes_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:279][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:281][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_Smokes_01_M, compiling. 
+[2021.12.22-23.49.48:282][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_Smokes_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:282][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:285][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_Smokes_01_M, compiling. 
+[2021.12.22-23.49.48:286][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_Smokes_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:286][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:288][800]LogMaterial: Display: Missing cached shader map for material M_2X2_SubUV_Smokes_01_M, compiling. 
+[2021.12.22-23.49.48:289][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_2X2_SubUV_Smokes_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:289][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:312][800]LogMaterial: Display: Missing cached shader map for material M_4X1_SubUV_MuzzleFlash_G, compiling. 
+[2021.12.22-23.49.48:313][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_4X1_SubUV_MuzzleFlash_G.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:313][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:314][800]LogMaterial: Display: Missing cached shader map for material M_4X1_SubUV_MuzzleFlash_G, compiling. 
+[2021.12.22-23.49.48:315][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_4X1_SubUV_MuzzleFlash_G.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:315][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:349][800]LogMaterial: Display: Missing cached shader map for material M_4X1_SubUV_MuzzleFlash_R, compiling. 
+[2021.12.22-23.49.48:350][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_4X1_SubUV_MuzzleFlash_R.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:350][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:352][800]LogMaterial: Display: Missing cached shader map for material M_4X1_SubUV_MuzzleFlash_R, compiling. 
+[2021.12.22-23.49.48:353][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_4X1_SubUV_MuzzleFlash_R.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:353][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:355][800]LogMaterial: Display: Missing cached shader map for material M_4X1_SubUV_MuzzleFlash_R, compiling. 
+[2021.12.22-23.49.48:356][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_4X1_SubUV_MuzzleFlash_R.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:356][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:361][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_01_M, compiling. 
+[2021.12.22-23.49.48:362][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:363][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:363][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:363][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:364][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_01_M, compiling. 
+[2021.12.22-23.49.48:365][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:365][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:365][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:365][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:367][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_01_M, compiling. 
+[2021.12.22-23.49.48:368][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:368][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:368][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:368][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:370][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_01_M, compiling. 
+[2021.12.22-23.49.48:371][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:371][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:371][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:371][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:373][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_01_M, compiling. 
+[2021.12.22-23.49.48:374][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:374][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:374][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:374][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:376][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_01_M, compiling. 
+[2021.12.22-23.49.48:378][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:378][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:378][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:378][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:383][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_02_M, compiling. 
+[2021.12.22-23.49.48:384][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:384][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:384][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:384][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:386][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_02_M, compiling. 
+[2021.12.22-23.49.48:388][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:388][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:388][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:388][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:390][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_02_M, compiling. 
+[2021.12.22-23.49.48:391][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:392][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:392][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:392][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:393][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_02_M, compiling. 
+[2021.12.22-23.49.48:394][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:394][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:394][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:394][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:396][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_02_M, compiling. 
+[2021.12.22-23.49.48:397][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:397][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:397][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:397][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:398][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_02_M, compiling. 
+[2021.12.22-23.49.48:400][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:400][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:400][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:400][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:402][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_02_M, compiling. 
+[2021.12.22-23.49.48:404][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:404][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:404][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:404][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:406][800]LogMaterial: Display: Missing cached shader map for material M_Cone_Engine_02_M, compiling. 
+[2021.12.22-23.49.48:408][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Cone_Engine_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:408][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:408][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) LightBeamFallOff> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:408][800]LogMaterial: Display: 	(Node TextureSample) LightBeamFall Off> Missing input texture
+[2021.12.22-23.49.48:425][800]LogMaterial: Display: Missing cached shader map for material M_Distortion_Master, compiling. 
+[2021.12.22-23.49.48:426][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Distortion_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:426][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:429][800]LogMaterial: Display: Missing cached shader map for material M_Distortion_Master, compiling. 
+[2021.12.22-23.49.48:430][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Distortion_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:430][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:432][800]LogMaterial: Display: Missing cached shader map for material M_Distortion_Master, compiling. 
+[2021.12.22-23.49.48:433][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Distortion_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:433][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:434][800]LogMaterial: Display: Missing cached shader map for material M_Distortion_Master, compiling. 
+[2021.12.22-23.49.48:435][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_Distortion_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:435][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:483][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_01_M, compiling. 
+[2021.12.22-23.49.48:484][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:484][800]LogMaterial: Display: 	Missing Material Function
+[2021.12.22-23.49.48:484][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:485][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_01_M, compiling. 
+[2021.12.22-23.49.48:486][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:486][800]LogMaterial: Display: 	Missing Material Function
+[2021.12.22-23.49.48:486][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:488][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_01_M, compiling. 
+[2021.12.22-23.49.48:488][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:488][800]LogMaterial: Display: 	Missing Material Function
+[2021.12.22-23.49.48:488][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:490][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_01_M, compiling. 
+[2021.12.22-23.49.48:491][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:491][800]LogMaterial: Display: 	Missing Material Function
+[2021.12.22-23.49.48:491][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:493][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_01_M, compiling. 
+[2021.12.22-23.49.48:494][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_01_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:494][800]LogMaterial: Display: 	Missing Material Function
+[2021.12.22-23.49.48:495][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:499][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_02_M, compiling. 
+[2021.12.22-23.49.48:500][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:501][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:502][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_02_M, compiling. 
+[2021.12.22-23.49.48:503][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:503][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:504][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_02_M, compiling. 
+[2021.12.22-23.49.48:505][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_02_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:505][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:520][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_03_M, compiling. 
+[2021.12.22-23.49.48:520][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_03_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:520][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:522][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_03_M, compiling. 
+[2021.12.22-23.49.48:523][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_03_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:523][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:526][800]LogMaterial: Display: Missing cached shader map for material M_GPU_EngineCore_03_M, compiling. 
+[2021.12.22-23.49.48:527][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\M_GPU_EngineCore_03_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:527][800]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.12.22-23.49.48:540][800]LogMaterial: Display: Missing cached shader map for material M_SoftSmokeCentered_VL_01, compiling. 
+[2021.12.22-23.49.48:541][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\Smoke\M_SoftSmokeCentered_VL_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:541][800]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.12.22-23.49.48:590][800]LogMaterial: Display: Missing cached shader map for material M_WheelDust, compiling. 
+[2021.12.22-23.49.48:590][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\Smoke\M_WheelDust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:590][800]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.12.22-23.49.48:593][800]LogMaterial: Display: Missing cached shader map for material M_WheelDust, compiling. 
+[2021.12.22-23.49.48:594][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Shared\Particles\Materials\MasterMaterials\Smoke\M_WheelDust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:594][800]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2021.12.22-23.49.48:744][800]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (2 / 2)
+[2021.12.22-23.49.48:751][800]LogMaterial: Display: Missing cached shader map for material M_West_Tank_M1A1Abrams_Tracks, compiling. 
+[2021.12.22-23.49.48:752][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Vehicles\West_Tank_M1A1Abrams\Materials\M_West_Tank_M1A1Abrams_Tracks.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:752][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:755][800]LogMaterial: Display: Missing cached shader map for material M_West_Tank_M1A1Abrams_Tracks, compiling. 
+[2021.12.22-23.49.48:756][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Vehicles\West_Tank_M1A1Abrams\Materials\M_West_Tank_M1A1Abrams_Tracks.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:756][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.48:758][800]LogMaterial: Display: Missing cached shader map for material M_West_Tank_M1A1Abrams_Tracks, compiling. 
+[2021.12.22-23.49.48:759][800]LogMaterial: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\VigilanteContent\Vehicles\West_Tank_M1A1Abrams\Materials\M_West_Tank_M1A1Abrams_Tracks.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.22-23.49.48:759][800]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.22-23.49.49:815][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.12.22-23.49.50:094][800]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.12.22-23.49.54:319][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.12.22-23.49.54:319][800]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.224 s
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: === Handled ensure: ===
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: 
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3129]
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: 
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: Stack: 
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff868d08df9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff8685a8bdb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff867d040d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff867fdfc7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff867fd7157 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff8782a85fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff8782c077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff8781046be UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff878187f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff878170367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff878163642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d06bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d059197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d06e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d054310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff8e5d65c1d USER32.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff8e5d65612 USER32.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d06f7a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff878192274 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff87812d486 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:324][800]LogOutputDevice: Error: [Callstack] 0x00007ff86806c11e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff86859c888 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff85e186de8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff84d4870e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff84d4872ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff84d477a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff85e8f0083 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff85e8e9532 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff85e9680a2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff85e8ecfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff8782a85fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff8782c077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff8781046be UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff878187f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff878170367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff878163642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d06bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d059197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d06e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d054310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff8e5d65c1d USER32.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff8e5d65612 USER32.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff88d06f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff7534d8857 UE4Editor.exe!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff7534f11ac UE4Editor.exe!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff7534f128a UE4Editor.exe!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff7535052ed UE4Editor.exe!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff75350801a UE4Editor.exe!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff8e5ca7c24 KERNEL32.DLL!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: [Callstack] 0x00007ff8e692d721 ntdll.dll!UnknownFunction []
+[2021.12.22-23.49.54:325][800]LogOutputDevice: Error: 
+[2021.12.22-23.49.54:330][800]LogStats:                SubmitErrorReport -  0.000 s
+[2021.12.22-23.50.08:157][800]LogStats:                    SendNewReport - 13.827 s
+[2021.12.22-23.50.08:157][800]LogStats:             FDebug::EnsureFailed - 18.062 s
+[2021.12.22-23.50.08:186][800]LogWorld: UWorld::CleanupWorld for WiderPlatform, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.50.08:187][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-23.50.08:258][800]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.12.22-23.50.10:689][800]LogWorld: UWorld::CleanupWorld for VLR, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.50.10:689][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-23.50.11:333][800]LogWorld: UWorld::CleanupWorld for West_Tank_M1A1Abrams, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.50.11:333][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-23.50.11:423][800]LogWorld: UWorld::CleanupWorld for West_Tank_M1A1Abrams_LTG, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.50.11:423][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-23.50.11:500][800]LogWorld: UWorld::CleanupWorld for West_Tank_M1A1Abrams_SEQUENCER, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.50.11:500][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-23.50.11:538][800]LogWorld: UWorld::CleanupWorld for West_Tank_M1A1Abrams_Vehicle, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.50.11:538][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-23.50.15:913][800]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.030 s
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: === Handled ensure: ===
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: 
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: Ensure condition failed: LevelVolumetricLightmaps.Num() == 0 [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Renderer/Private/RendererScene.cpp] [Line: 2337]
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: All volumetric lightmaps should have been removed before ~FScene(). Removing them anyway to avoid crash.
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: Stack: 
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff85fca28b9 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff85f85cdf7 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff85f868f64 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff85f891208 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff85f8a36b8 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff86e4ced11 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff86e4cf0fe UE4Editor-Core.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff886dfa442 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff886e02b14 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff86ea289eb UE4Editor-Core.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff86ea21680 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff8e5ca7c24 KERNEL32.DLL!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: [Callstack] 0x00007ff8e692d721 ntdll.dll!UnknownFunction []
+[2021.12.22-23.50.15:913][800]LogOutputDevice: Error: 
+[2021.12.22-23.50.15:913][800]LogStats:                SubmitErrorReport -  0.000 s
+[2021.12.22-23.50.19:053][800]LogStats:                    SendNewReport -  3.140 s
+[2021.12.22-23.50.19:053][800]LogStats:             FDebug::EnsureFailed -  3.170 s
+[2021.12.22-23.50.25:140][800]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.12.22-23.50.25:140][800]LogWindows: Windows GetLastError: この操作を正しく終了しました。 (0)
+[2021.12.22-23.50.25:174][800]LogWindows: Error: === Critical error: ===
+[2021.12.22-23.50.25:174][800]LogWindows: Error: 
+[2021.12.22-23.50.25:174][800]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/RenderCore/Private/RenderingThread.cpp] [Line: 907] 
+[2021.12.22-23.50.25:174][800]LogWindows: Error: Rendering thread exception:
+[2021.12.22-23.50.25:174][800]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x000001b5d52e0000
+[2021.12.22-23.50.25:174][800]LogWindows: Error: 
+[2021.12.22-23.50.25:174][800]LogWindows: Error: [Callstack] 0x00007ff86b327fe0 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.22-23.50.25:174][800]LogWindows: Error: [Callstack] 0x00007ff85f8c3f77 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff85f85ce5b UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff85f868f64 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff85f891208 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff85f8a36b8 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff86e4ced11 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff86e4cf0fe UE4Editor-Core.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff886dfa442 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff886e02b14 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff86ea289eb UE4Editor-Core.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff86ea21680 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff8e5ca7c24 KERNEL32.DLL!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: [Callstack] 0x00007ff8e692d721 ntdll.dll!UnknownFunction []
+[2021.12.22-23.50.25:175][800]LogWindows: Error: 
+[2021.12.22-23.50.25:175][800]LogWindows: Error: 
+[2021.12.22-23.50.25:175][800]LogWindows: Error: 
+[2021.12.22-23.50.25:175][800]LogWindows: Error: 
+[2021.12.22-23.50.25:229][800]LogExit: Executing StaticShutdownAfterError
+[2021.12.22-23.50.25:254][800]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.12.22-23.50.25:254][800]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.12.22-23.50.25:303][800]Log file closed, 12/23/21 08:50:25
