@@ -1757,3 +1757,346 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.23-00.36.38:691][896]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/battleMap_Auto22A35A7784B2DEFEED12E308519E4A93C.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Autosaves/Game/Map/battleMap_Auto2.umap'
 [2021.12.23-00.36.38:693][896]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/battleMap' took 0.213
 [2021.12.23-00.36.38:693][896]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.213
+[2021.12.23-00.45.33:654][545]BlueprintLog: New page: Enemy_01 をコンパイル
+[2021.12.23-00.45.36:054][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.12.23-00.45.48:596][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/battleMap" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Map/battleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.23-00.45.48:672][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.12.23-00.45.48:702][139]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/battleMapD7620ADE40ECE88FC53CDF91420EE719.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Map/battleMap.umap'
+[2021.12.23-00.45.48:723][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/battleMap_BuiltData" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Map/battleMap_BuiltData.uasset" SILENT=true
+[2021.12.23-00.45.48:759][139]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/battleMap_BuiltData6781AECD4950053E2C22409DF6B24E4A.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Map/battleMap_BuiltData.uasset'
+[2021.12.23-00.45.48:919][139]AssetCheck: New page: アセット保存:複数のアセット
+[2021.12.23-00.45.48:919][139]LogContentValidation: Display: MapBuildDataRegistry /Game/Map/battleMap_BuiltData.battleMap_BuiltData を検証しています
+[2021.12.23-00.45.48:919][139]LogContentValidation: Display: World /Game/Map/battleMap.battleMap を検証しています
+[2021.12.23-00.46.00:511][725]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Dead_01.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.46.00:511][725]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Dead_01.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.46.00:511][725]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Dead_01.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.46.00:512][725]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Dead_01.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.46.00:537][725]LoadErrors: ロードに失敗しました /Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 参照元 Dead_01
+[2021.12.23-00.46.00:583][725]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_01.Dead_01
+[2021.12.23-00.46.03:346][725]LogSlate: Window 'メッセージ' being destroyed
+[2021.12.23-00.46.03:354][725]Message dialog closed, result: Yes, title: メッセージ, text: アニメーション 'Dead_01'  のスケルトンが見つかりませんでした。新たにスケルトンを選択しますか？
+[2021.12.23-00.46.03:744][725]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.46.07:318][923]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.12.23-00.46.08:567][998]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.46.20:747][700]LogContentBrowser: Attempting asset rename: SK_Mannequin_Skeleton -> SK_Mannequin_Skeleton
+[2021.12.23-00.46.29:694][205]LogContentBrowser: Attempting asset rename: SK_Mannequin_Skeleton -> SK_Mannequin_Skeleton
+[2021.12.23-00.46.36:932][639]LogSlate: Window 'スケルトンを選択' being destroyed
+[2021.12.23-00.46.37:040][639]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.46.37:053][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.46.37:066][639]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.46.37:066][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.46.38:723][725]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_01.Dead_01
+[2021.12.23-00.46.40:465][725]LogSlate: Window 'メッセージ' being destroyed
+[2021.12.23-00.46.40:471][725]Message dialog closed, result: Yes, title: メッセージ, text: アニメーション 'Dead_01'  のスケルトンが見つかりませんでした。新たにスケルトンを選択しますか？
+[2021.12.23-00.46.40:643][725]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.46.52:181][373]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_01.Dead_01
+[2021.12.23-00.46.52:249][373]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_01.Dead_01
+[2021.12.23-00.46.52:467][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.23-00.46.53:238][373]LogSlate: Window 'スケルトンを選択' being destroyed
+[2021.12.23-00.46.53:241][373]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.46.53:241][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.46.53:252][373]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.46.53:252][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.46.53:358][373]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_01.Dead_01
+[2021.12.23-00.46.53:623][373]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.12.23-00.47.00:088][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charcter/Enemy/Enemy_01" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset" SILENT=true
+[2021.12.23-00.47.00:269][741]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Enemy_0130DC60A44B4EC1126783D5B332D77A5A.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset'
+[2021.12.23-00.47.00:291][741]AssetCheck: New page: アセット保存:Enemy_01
+[2021.12.23-00.47.00:291][741]LogContentValidation: Display: Blueprint /Game/Charcter/Enemy/Enemy_01.Enemy_01 を検証しています
+[2021.12.23-00.47.14:685][487]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Falling_Back_Down.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.47.14:685][487]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Falling_Back_Down.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.47.14:685][487]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Falling_Back_Down.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.47.14:685][487]LoadErrors: ロードに失敗しました /Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 参照元 Falling_Back_Down
+[2021.12.23-00.47.14:746][487]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Falling_Back_Down.Falling_Back_Down
+[2021.12.23-00.47.16:132][487]LogSlate: Window 'メッセージ' being destroyed
+[2021.12.23-00.47.16:137][487]Message dialog closed, result: Yes, title: メッセージ, text: アニメーション 'Falling_Back_Down'  のスケルトンが見つかりませんでした。新たにスケルトンを選択しますか？
+[2021.12.23-00.47.16:305][487]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.47.25:233][997]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Falling_Back_Down.Falling_Back_Down
+[2021.12.23-00.47.25:313][997]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Falling_Back_Down.Falling_Back_Down
+[2021.12.23-00.47.25:716][997]LogSlate: Window 'スケルトンを選択' being destroyed
+[2021.12.23-00.47.25:746][997]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.47.25:746][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.47.25:759][997]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.47.25:760][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.47.25:814][997]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Falling_Back_Down.Falling_Back_Down
+[2021.12.23-00.47.25:892][997]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.47.25:892][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.47.34:925][503]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Falling_Back_Down5D3922CA47AE7556ED8DD684040E77EF.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Anime/DynamicSwordAnimset/Animations/RootMotion/Falling_Back_Down.uasset'
+[2021.12.23-00.47.34:956][503]AssetCheck: New page: アセット保存:Falling_Back_Down
+[2021.12.23-00.47.34:957][503]LogContentValidation: Display: AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Falling_Back_Down.Falling_Back_Down を検証しています
+[2021.12.23-00.47.48:152][223]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Dead_02.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.47.48:153][223]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Dead_02.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.47.48:153][223]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Dead_02.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.47.48:153][223]LoadErrors: ロードに失敗しました /Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 参照元 Dead_02
+[2021.12.23-00.47.48:203][223]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_02.Dead_02
+[2021.12.23-00.47.49:453][223]LogSlate: Window 'メッセージ' being destroyed
+[2021.12.23-00.47.49:460][223]Message dialog closed, result: Yes, title: メッセージ, text: アニメーション 'Dead_02'  のスケルトンが見つかりませんでした。新たにスケルトンを選択しますか？
+[2021.12.23-00.47.49:652][223]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.47.54:612][499]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.12.23-00.47.55:611][559]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.47.58:912][755]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_02.Dead_02
+[2021.12.23-00.47.58:978][755]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_02.Dead_02
+[2021.12.23-00.47.59:196][755]LogSlate: Window 'スケルトンを選択' being destroyed
+[2021.12.23-00.47.59:237][755]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.47.59:237][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.47.59:253][755]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.47.59:253][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.47.59:313][755]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_02.Dead_02
+[2021.12.23-00.47.59:398][755]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.47.59:398][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.48.17:617][829]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Dead_02C625E8B949F3FA6907DC6EB4B957BD5F.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_02.uasset'
+[2021.12.23-00.48.17:643][829]AssetCheck: New page: アセット保存:Dead_02
+[2021.12.23-00.48.17:643][829]LogContentValidation: Display: AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_02.Dead_02 を検証しています
+[2021.12.23-00.48.31:187][519]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Knockdown_Back_Up.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.48.31:187][519]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Knockdown_Back_Up.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.48.31:188][519]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Knockdown_Back_Up.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.48.31:188][519]LoadErrors: ロードに失敗しました /Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 参照元 Knockdown_Back_Up
+[2021.12.23-00.48.31:256][519]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up.Knockdown_Back_Up
+[2021.12.23-00.48.35:035][519]LogSlate: Window 'メッセージ' being destroyed
+[2021.12.23-00.48.35:043][519]Message dialog closed, result: Yes, title: メッセージ, text: アニメーション 'Knockdown_Back_Up'  のスケルトンが見つかりませんでした。新たにスケルトンを選択しますか？
+[2021.12.23-00.48.35:250][519]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.48.43:915][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up.Knockdown_Back_Up
+[2021.12.23-00.48.43:991][  3]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up.Knockdown_Back_Up
+[2021.12.23-00.48.44:101][  3]LogSlate: Window 'スケルトンを選択' being destroyed
+[2021.12.23-00.48.44:105][  3]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.48.44:105][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.48.44:118][  3]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.48.44:118][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.48.44:177][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up.Knockdown_Back_Up
+[2021.12.23-00.48.44:224][  3]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.48.44:224][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.48.52:282][433]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Knockdown_Back.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.48.52:282][433]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Knockdown_Back.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.48.52:282][433]LogLinker: Warning: [AssetLog] D:\UE4Game\PublicActGame\SIN_MUSOU\Content\Anime\DynamicSwordAnimset\Animations\RootMotion\Knockdown_Back.uasset:  '/Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton' のロードに失敗しました: ファイルが見つかりません
+[2021.12.23-00.48.52:283][433]LoadErrors: ロードに失敗しました /Game/DynamicSwordAnimset/Character/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 参照元 Knockdown_Back
+[2021.12.23-00.48.52:332][433]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back.Knockdown_Back
+[2021.12.23-00.48.53:589][433]LogSlate: Window 'メッセージ' being destroyed
+[2021.12.23-00.48.53:596][433]Message dialog closed, result: Yes, title: メッセージ, text: アニメーション 'Knockdown_Back'  のスケルトンが見つかりませんでした。新たにスケルトンを選択しますか？
+[2021.12.23-00.48.53:762][433]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.48.56:262][552]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.12.23-00.48.57:229][610]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.48.57:954][653]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.12.23-00.48.58:386][679]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.12.23-00.49.03:368][975]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back.Knockdown_Back
+[2021.12.23-00.49.03:441][975]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back.Knockdown_Back
+[2021.12.23-00.49.03:551][975]LogSlate: Window 'スケルトンを選択' being destroyed
+[2021.12.23-00.49.03:555][975]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.49.03:555][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.49.03:568][975]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.49.03:569][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.49.03:625][975]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back.Knockdown_Back
+[2021.12.23-00.49.03:687][975]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.49.03:687][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.49.09:344][294]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Knockdown_BackC8D24D7F41AC9A36ACEC8A94A8EC91A4.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back.uasset'
+[2021.12.23-00.49.09:373][294]AssetCheck: New page: アセット保存:Knockdown_Back
+[2021.12.23-00.49.09:373][294]LogContentValidation: Display: AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back.Knockdown_Back を検証しています
+[2021.12.23-00.49.13:987][514]LogContentBrowser: Deferred new asset file creation: Knockdown_Back_Montage
+[2021.12.23-00.49.14:015][514]LogContentBrowser: Creating deferred item: Knockdown_Back_Montage
+[2021.12.23-00.49.15:318][588]LogContentBrowser: Attempting asset rename: Knockdown_Back_Montage -> Knockdown_Back_Montage
+[2021.12.23-00.49.15:443][588]LogContentBrowser: End creating deferred item Knockdown_Back_Montage
+[2021.12.23-00.49.51:823][688]BlueprintLog: New page: Enemy_01 をコンパイル
+[2021.12.23-00.49.54:112][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.12.23-00.50.50:585][ 37]BlueprintLog: New page: Enemy_01 をコンパイル
+[2021.12.23-00.50.50:667][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.12.23-00.50.51:142][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charcter/Enemy/Enemy_01" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset" SILENT=true
+[2021.12.23-00.50.52:767][ 57]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Enemy_019094D6154E9AE47218F550B46C45FFF9.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset'
+[2021.12.23-00.50.52:818][ 57]AssetCheck: New page: アセット保存:Enemy_01
+[2021.12.23-00.50.52:818][ 57]LogContentValidation: Display: Blueprint /Game/Charcter/Enemy/Enemy_01.Enemy_01 を検証しています
+[2021.12.23-00.50.56:185][259]LogTemp: Repeating last play command: 選択ビューポート
+[2021.12.23-00.50.56:197][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.23-00.50.56:305][259]PIE: New page: PIEセッション: battleMap (2021/12/23 18:50:56)
+[2021.12.23-00.50.56:306][259]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_battleMap
+[2021.12.23-00.50.56:402][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058374s)
+[2021.12.23-00.50.56:404][259]LogAIModule: Creating AISystem for world battleMap
+[2021.12.23-00.50.56:404][259]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2021.12.23-00.50.56:404][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/battleMap.battleMap to /Game/Map/UEDPIE_0_battleMap.battleMap (0.097977s)
+[2021.12.23-00.50.56:434][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.12.23-00.50.56:435][259]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.12.23-00.50.56:450][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.23-00.50.56:450][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.23-00.50.56:450][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.23-00.50.56:450][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.23-00.50.56:450][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.23-00.50.56:450][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.23-00.50.56:450][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.23-00.50.56:450][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.23-00.50.56:450][259]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.23-00.50.56:450][259]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.23-00.50.56:483][259]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.23-00.50.56:483][259]LogAudioMixer: Display: 1: FrontRight
+[2021.12.23-00.50.56:529][259]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek High Definition Audio)
+[2021.12.23-00.50.56:530][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.23-00.50.56:530][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.23-00.50.56:530][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.23-00.50.56:531][259]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.23-00.50.56:531][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.23-00.50.56:540][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.23-00.50.56:553][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.23-00.50.56:553][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.23-00.50.56:553][259]LogInit: FAudioDevice initialized.
+[2021.12.23-00.50.56:553][259]LogAudio: Display: Audio Device (ID: 10) registered with world 'battleMap'.
+[2021.12.23-00.50.56:617][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.50.56:643][259]LogLoad: Game class is 'ActGameMode_C'
+[2021.12.23-00.50.56:645][259]LogWorld: Bringing World /Game/Map/UEDPIE_0_battleMap.battleMap up for play (max tick rate 60) at 2021.12.23-09.50.56
+[2021.12.23-00.50.56:674][259]LogWorld: Bringing up level for play took: 0.030732
+[2021.12.23-00.50.56:724][259]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.12.23-00.50.56:799][259]PIE: サーバーにログインしました
+[2021.12.23-00.50.56:801][259]PIE: PIE合計開始時間 0.609 秒。
+[2021.12.23-00.50.56:950][260]LogRenderer: Reallocating scene render targets to support 1592x1156 Format 10 NumSamples 1 (Frame:1).
+[2021.12.23-00.51.06:079][780]LogBlueprintUserMessages: [Enemy_5] Im Dead
+[2021.12.23-00.51.14:182][266]LogBlueprintUserMessages: [Enemy_01_2] Im Dead
+[2021.12.23-00.51.16:790][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.51.16:790][414]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_battleMap
+[2021.12.23-00.51.16:790][414]LogSlate: Window 'SIN_MUSOU プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2021.12.23-00.51.16:810][414]LogWorld: UWorld::CleanupWorld for battleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.51.16:810][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.51.16:818][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.23-00.51.16:848][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.51.16:874][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.23-00.51.16:874][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.23-00.51.16:876][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.23-00.51.16:909][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.12.23-00.51.16:934][415]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.12.23-00.54.55:272][157]BlueprintLog: New page: Enemy_01 をコンパイル
+[2021.12.23-00.54.55:351][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.12.23-00.54.56:466][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charcter/Enemy/Enemy_01" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset" SILENT=true
+[2021.12.23-00.54.56:505][213]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Enemy_012296528F476C566674BB75BA1151559A.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset'
+[2021.12.23-00.54.56:529][213]AssetCheck: New page: アセット保存:Enemy_01
+[2021.12.23-00.54.56:529][213]LogContentValidation: Display: Blueprint /Game/Charcter/Enemy/Enemy_01.Enemy_01 を検証しています
+[2021.12.23-00.55.07:139][837]BlueprintLog: New page: Enemy_01 をコンパイル
+[2021.12.23-00.55.07:219][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.12.23-00.55.07:809][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charcter/Enemy/Enemy_01" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset" SILENT=true
+[2021.12.23-00.55.07:850][864]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Enemy_018C63E073458CF1253B48CC91DC861FBD.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset'
+[2021.12.23-00.55.07:871][864]AssetCheck: New page: アセット保存:Enemy_01
+[2021.12.23-00.55.07:871][864]LogContentValidation: Display: Blueprint /Game/Charcter/Enemy/Enemy_01.Enemy_01 を検証しています
+[2021.12.23-00.55.32:841][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charcter/Enemy/Enemy_01" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset" SILENT=true
+[2021.12.23-00.55.32:877][320]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Enemy_01D3730970420AF2023B47EC90E69D8090.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset'
+[2021.12.23-00.55.32:901][320]AssetCheck: New page: アセット保存:Enemy_01
+[2021.12.23-00.55.32:901][320]LogContentValidation: Display: Blueprint /Game/Charcter/Enemy/Enemy_01.Enemy_01 を検証しています
+[2021.12.23-00.56.02:437][ 18]BlueprintLog: New page: Enemy_01 をコンパイル
+[2021.12.23-00.56.02:517][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.12.23-00.56.02:991][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charcter/Enemy/Enemy_01" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset" SILENT=true
+[2021.12.23-00.56.03:037][ 37]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Enemy_01F86DD2EE4D77B40BD7FBAD9F8370CFAE.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Charcter/Enemy/Enemy_01.uasset'
+[2021.12.23-00.56.03:059][ 37]AssetCheck: New page: アセット保存:Enemy_01
+[2021.12.23-00.56.03:059][ 37]LogContentValidation: Display: Blueprint /Game/Charcter/Enemy/Enemy_01.Enemy_01 を検証しています
+[2021.12.23-00.56.07:621][303]LogTemp: Repeating last play command: 選択ビューポート
+[2021.12.23-00.56.07:632][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.23-00.56.07:632][303]PIE: New page: PIEセッション: battleMap (2021/12/23 18:56:07)
+[2021.12.23-00.56.07:633][303]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_battleMap
+[2021.12.23-00.56.07:637][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004228s)
+[2021.12.23-00.56.07:639][303]LogAIModule: Creating AISystem for world battleMap
+[2021.12.23-00.56.07:640][303]LogPlayLevel: PIE: World Init took: (0.002609s)
+[2021.12.23-00.56.07:640][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/battleMap.battleMap to /Game/Map/UEDPIE_0_battleMap.battleMap (0.007070s)
+[2021.12.23-00.56.07:669][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.12.23-00.56.07:670][303]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.12.23-00.56.07:670][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.23-00.56.07:670][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.23-00.56.07:670][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.23-00.56.07:670][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.23-00.56.07:670][303]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.23-00.56.07:670][303]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.23-00.56.07:670][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.23-00.56.07:670][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.23-00.56.07:670][303]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.23-00.56.07:670][303]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.23-00.56.07:679][303]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.23-00.56.07:679][303]LogAudioMixer: Display: 1: FrontRight
+[2021.12.23-00.56.07:722][303]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek High Definition Audio)
+[2021.12.23-00.56.07:722][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.23-00.56.07:722][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.23-00.56.07:722][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.23-00.56.07:723][303]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.23-00.56.07:723][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.23-00.56.07:723][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.23-00.56.07:744][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.23-00.56.07:744][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.23-00.56.07:744][303]LogInit: FAudioDevice initialized.
+[2021.12.23-00.56.07:744][303]LogAudio: Display: Audio Device (ID: 11) registered with world 'battleMap'.
+[2021.12.23-00.56.07:811][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.56.07:812][303]LogLoad: Game class is 'ActGameMode_C'
+[2021.12.23-00.56.07:815][303]LogWorld: Bringing World /Game/Map/UEDPIE_0_battleMap.battleMap up for play (max tick rate 60) at 2021.12.23-09.56.07
+[2021.12.23-00.56.07:816][303]LogWorld: Bringing up level for play took: 0.003165
+[2021.12.23-00.56.07:817][303]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.12.23-00.56.07:825][303]PIE: サーバーにログインしました
+[2021.12.23-00.56.07:826][303]PIE: PIE合計開始時間 0.199 秒。
+[2021.12.23-00.56.19:662][935]LogBlueprintUserMessages: [Enemy_5] Im Dead
+[2021.12.23-00.56.22:492][101]LogBlueprintUserMessages: [Enemy_01_2] Im Dead
+[2021.12.23-00.56.31:662][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.56.31:662][611]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_battleMap
+[2021.12.23-00.56.31:663][611]LogSlate: Window 'SIN_MUSOU プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2021.12.23-00.56.31:678][611]LogWorld: UWorld::CleanupWorld for battleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.56.31:678][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.56.31:691][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.23-00.56.31:713][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.56.31:740][611]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.23-00.56.31:740][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.23-00.56.31:741][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.23-00.56.31:774][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.12.23-00.56.31:809][612]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.12.23-00.56.33:236][696]LogTemp: Repeating last play command: 選択ビューポート
+[2021.12.23-00.56.33:247][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.23-00.56.33:247][696]PIE: New page: PIEセッション: battleMap (2021/12/23 18:56:33)
+[2021.12.23-00.56.33:247][696]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_battleMap
+[2021.12.23-00.56.33:251][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003964s)
+[2021.12.23-00.56.33:254][696]LogAIModule: Creating AISystem for world battleMap
+[2021.12.23-00.56.33:255][696]LogPlayLevel: PIE: World Init took: (0.003402s)
+[2021.12.23-00.56.33:255][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/battleMap.battleMap to /Game/Map/UEDPIE_0_battleMap.battleMap (0.007586s)
+[2021.12.23-00.56.33:281][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.12.23-00.56.33:281][696]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.12.23-00.56.33:281][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.23-00.56.33:281][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.23-00.56.33:281][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.23-00.56.33:282][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.23-00.56.33:282][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.23-00.56.33:282][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.23-00.56.33:282][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.23-00.56.33:282][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.23-00.56.33:282][696]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.23-00.56.33:282][696]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.23-00.56.33:289][696]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.23-00.56.33:289][696]LogAudioMixer: Display: 1: FrontRight
+[2021.12.23-00.56.33:333][696]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek High Definition Audio)
+[2021.12.23-00.56.33:334][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.23-00.56.33:334][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.23-00.56.33:334][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.23-00.56.33:334][696]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.23-00.56.33:334][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.23-00.56.33:334][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.23-00.56.33:355][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.23-00.56.33:355][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.23-00.56.33:355][696]LogInit: FAudioDevice initialized.
+[2021.12.23-00.56.33:355][696]LogAudio: Display: Audio Device (ID: 12) registered with world 'battleMap'.
+[2021.12.23-00.56.33:408][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.56.33:408][696]LogLoad: Game class is 'ActGameMode_C'
+[2021.12.23-00.56.33:412][696]LogWorld: Bringing World /Game/Map/UEDPIE_0_battleMap.battleMap up for play (max tick rate 60) at 2021.12.23-09.56.33
+[2021.12.23-00.56.33:413][696]LogWorld: Bringing up level for play took: 0.003815
+[2021.12.23-00.56.33:413][696]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.12.23-00.56.33:421][696]PIE: サーバーにログインしました
+[2021.12.23-00.56.33:423][696]PIE: PIE合計開始時間 0.181 秒。
+[2021.12.23-00.56.43:132][184]LogBlueprintUserMessages: [Enemy_5] Im Dead
+[2021.12.23-00.56.54:757][823]LogBlueprintUserMessages: [Enemy_01_2] Im Dead
+[2021.12.23-00.56.57:331][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.56.57:331][973]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_battleMap
+[2021.12.23-00.56.57:331][973]LogSlate: Window 'SIN_MUSOU プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2021.12.23-00.56.57:347][973]LogWorld: UWorld::CleanupWorld for battleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.56.57:347][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.56.57:356][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.23-00.56.57:380][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.56.57:408][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.23-00.56.57:410][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.23-00.56.57:439][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.12.23-00.56.57:477][974]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.12.23-00.57.28:069][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.12.23-00.57.28:070][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/battleMap" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Autosaves/Game/Map/battleMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.23-00.57.28:089][167]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/battleMap_Auto3D949228C4E8CC7C8BC0DA59D2028C691.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Autosaves/Game/Map/battleMap_Auto3.umap'
+[2021.12.23-00.57.28:107][167]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/battleMap' took 0.065
+[2021.12.23-00.57.28:107][167]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2021.12.23-00.57.28:107][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_01] ([1] browsable assets)...
+[2021.12.23-00.57.28:169][167]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_01.Dead_01]
+[2021.12.23-00.57.28:169][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_01]
+[2021.12.23-00.57.28:192][167]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Dead_01_Auto3073AECC043253F31C45CFD802D4BB200.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Autosaves/Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Dead_01_Auto3.uasset'
+[2021.12.23-00.57.28:193][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up] ([1] browsable assets)...
+[2021.12.23-00.57.28:222][167]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up.Knockdown_Back_Up]
+[2021.12.23-00.57.28:222][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up]
+[2021.12.23-00.57.28:231][167]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Knockdown_Back_Up_Auto31C103CCC45A3F8C6E3498BBB999FB6DA.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Autosaves/Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up_Auto3.uasset'
+[2021.12.23-00.57.28:232][167]LogFileHelpers: Auto-saving content packages took 0.125
