@@ -2100,3 +2100,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.23-00.57.28:222][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up]
 [2021.12.23-00.57.28:231][167]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Knockdown_Back_Up_Auto31C103CCC45A3F8C6E3498BBB999FB6DA.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/Autosaves/Game/Anime/DynamicSwordAnimset/Animations/RootMotion/Knockdown_Back_Up_Auto3.uasset'
 [2021.12.23-00.57.28:232][167]LogFileHelpers: Auto-saving content packages took 0.125
+[2021.12.23-00.57.51:789][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/battleMap" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Map/battleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.23-00.57.51:825][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.12.23-00.57.51:953][525]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/battleMapCDB7E1D44E09D21B05B50693671CF2BD.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Map/battleMap.umap'
+[2021.12.23-00.57.51:970][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/battleMap_BuiltData" FILE="../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Map/battleMap_BuiltData.uasset" SILENT=true
+[2021.12.23-00.57.51:983][525]LogSavePackage: Moving '../../../../UE4Game/PublicActGame/SIN_MUSOU/Saved/battleMap_BuiltDataB0CFD6E2439F71F8669BB8B75DCE53AA.tmp' to '../../../../UE4Game/PublicActGame/SIN_MUSOU/Content/Map/battleMap_BuiltData.uasset'
+[2021.12.23-00.57.52:002][525]AssetCheck: New page: アセット保存:複数のアセット
+[2021.12.23-00.57.52:002][525]LogContentValidation: Display: MapBuildDataRegistry /Game/Map/battleMap_BuiltData.battleMap_BuiltData を検証しています
+[2021.12.23-00.57.52:002][525]LogContentValidation: Display: World /Game/Map/battleMap.battleMap を検証しています
